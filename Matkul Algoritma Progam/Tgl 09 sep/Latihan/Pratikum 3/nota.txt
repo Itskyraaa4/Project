@@ -1,0 +1,3 @@
+Harga Barang			: Rp. 200000.00
+Persentase Diskon			: Rp. 12.00%
+Total Harga Setelah Diskon	: Rp. 176000.00
